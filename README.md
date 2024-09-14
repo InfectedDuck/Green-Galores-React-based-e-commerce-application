@@ -62,3 +62,6 @@
   General styles for the application, including landing page and product list.
 
 
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details. <br>
+This project is made as a part of IBM Course.
